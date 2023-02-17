@@ -31,6 +31,7 @@ int main()
 
         if (pid == 0)
         { // Child process
+            usleep(5000);
             execl("./ipc", "ipc", "10", "b", NULL);
             perror("execl");
             return 1;
