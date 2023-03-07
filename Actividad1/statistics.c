@@ -1,3 +1,11 @@
+/*
+Javier Mombiela
+Carnet: 20067
+Seccion: 21
+
+Actividad 1: Statistics.c
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
