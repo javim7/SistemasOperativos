@@ -1,0 +1,1 @@
+cmd_/home/javimombiela/Documents/GitHub/SistemasOperativos/Lab4/modules.order := {   echo /home/javimombiela/Documents/GitHub/SistemasOperativos/Lab4/simple.ko; :; } | awk '!x[$$0]++' - > /home/javimombiela/Documents/GitHub/SistemasOperativos/Lab4/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/javimombiela/Documents/GitHub/SistemasOperativos/Lab4/simple.mod := { echo  /home/javimombiela/Documents/GitHub/SistemasOperativos/Lab4/simple.o;  echo; } > /home/javimombiela/Documents/GitHub/SistemasOperativos/Lab4/simple.mod

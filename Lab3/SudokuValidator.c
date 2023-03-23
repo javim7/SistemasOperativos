@@ -1,3 +1,11 @@
+/*
+Javier Mombiela
+Carnet: 20067
+Seccion: 21
+
+Lab 3: Sudoku Validator
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/mman.h>
