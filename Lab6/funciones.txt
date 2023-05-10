@@ -1,0 +1,386 @@
+Iniciando programa
+Creando threads
+Iniciando thread 1
+Iniciando thread 1
+Iniciando iteracion 1
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 8
+Mutex liberado, saliendo del monitor
+1 - (!) Recurso tomado
+Iniciando thread 2
+Recurso usado
+1 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 10
+Iniciando iteracion 2
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 8
+Mutex liberado, saliendo del monitor
+1 - (!) Recurso tomado
+Iniciando thread 2
+Iniciando iteracion 1
+Se consumiran 1 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 7
+Mutex liberado, saliendo del monitor
+2 - (!) Recurso tomado
+Iniciando thread 3
+Recurso usado
+1 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 9
+Iniciando iteracion 3
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 7
+Mutex liberado, saliendo del monitor
+1 - (!) Recurso tomado
+Iniciando thread 3
+Iniciando iteracion 1
+Se consumiran 3 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 4
+Mutex liberado, saliendo del monitor
+3 - (!) Recurso tomado
+Recurso usado
+2 - Recurso devuelto
+Recursos agregados: 1
+Recursos actuales: 5
+Iniciando iteracion 2
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 3
+Mutex liberado, saliendo del monitor
+2 - (!) Recurso tomado
+Recurso usado
+1 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 5
+Recurso usado
+3 - Recurso devuelto
+Recursos agregados: 3
+Recursos actuales: 8
+Iniciando iteracion 2
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 6
+Mutex liberado, saliendo del monitor
+3 - (!) Recurso tomado
+Iniciando thread 4
+Recurso usado
+2 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 8
+Iniciando iteracion 3
+Se consumiran 1 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 7
+Mutex liberado, saliendo del monitor
+2 - (!) Recurso tomado
+Iniciando thread 4
+Iniciando iteracion 1
+Se consumiran 1 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 6
+Mutex liberado, saliendo del monitor
+4 - (!) Recurso tomado
+Recurso usado
+3 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 8
+Iniciando iteracion 3
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 6
+Mutex liberado, saliendo del monitor
+3 - (!) Recurso tomado
+Recurso usado
+4 - Recurso devuelto
+Recursos agregados: 1
+Recursos actuales: 7
+Iniciando iteracion 2
+Se consumiran 3 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 4
+Mutex liberado, saliendo del monitor
+4 - (!) Recurso tomado
+Iniciando thread 5
+Recurso usado
+2 - Recurso devuelto
+Recursos agregados: 1
+Recursos actuales: 5
+Iniciando thread 5
+Iniciando iteracion 1
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 3
+Mutex liberado, saliendo del monitor
+5 - (!) Recurso tomado
+Recurso usado
+3 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 5
+Recurso usado
+4 - Recurso devuelto
+Recursos agregados: 3
+Recursos actuales: 8
+Iniciando iteracion 3
+Se consumiran 3 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 5
+Mutex liberado, saliendo del monitor
+4 - (!) Recurso tomado
+Iniciando thread 6
+Recurso usado
+5 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 7
+Iniciando iteracion 2
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 5
+Mutex liberado, saliendo del monitor
+5 - (!) Recurso tomado
+Iniciando thread 6
+Iniciando iteracion 1
+Se consumiran 3 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 2
+Mutex liberado, saliendo del monitor
+6 - (!) Recurso tomado
+Recurso usado
+4 - Recurso devuelto
+Recursos agregados: 3
+Recursos actuales: 5
+Iniciando thread 7
+Recurso usado
+6 - Recurso devuelto
+Recursos agregados: 3
+Recursos actuales: 8
+Iniciando iteracion 2
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 6
+Mutex liberado, saliendo del monitor
+6 - (!) Recurso tomado
+Iniciando thread 7
+Iniciando iteracion 1
+Se consumiran 1 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 5
+Mutex liberado, saliendo del monitor
+7 - (!) Recurso tomado
+Recurso usado
+5 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 7
+Iniciando iteracion 3
+Se consumiran 1 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 6
+Mutex liberado, saliendo del monitor
+5 - (!) Recurso tomado
+Recurso usado
+6 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 8
+Iniciando iteracion 3
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 6
+Mutex liberado, saliendo del monitor
+6 - (!) Recurso tomado
+Iniciando thread 8
+Recurso usado
+7 - Recurso devuelto
+Recursos agregados: 1
+Recursos actuales: 7
+Iniciando iteracion 2
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 5
+Mutex liberado, saliendo del monitor
+7 - (!) Recurso tomado
+Recurso usado
+5 - Recurso devuelto
+Recursos agregados: 1
+Recursos actuales: 6
+Iniciando thread 8
+Iniciando iteracion 1
+Se consumiran 3 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 3
+Mutex liberado, saliendo del monitor
+8 - (!) Recurso tomado
+Iniciando thread 9
+Recurso usado
+7 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 5
+Iniciando iteracion 3
+Se consumiran 3 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 2
+Mutex liberado, saliendo del monitor
+7 - (!) Recurso tomado
+Recurso usado
+6 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 4
+Recurso usado
+8 - Recurso devuelto
+Recursos agregados: 3
+Recursos actuales: 7
+Iniciando iteracion 2
+Se consumiran 1 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 6
+Mutex liberado, saliendo del monitor
+8 - (!) Recurso tomado
+Iniciando thread 9
+Iniciando iteracion 1
+Se consumiran 1 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 5
+Mutex liberado, saliendo del monitor
+9 - (!) Recurso tomado
+Recurso usado
+8 - Recurso devuelto
+Recursos agregados: 1
+Recursos actuales: 6
+Iniciando iteracion 3
+Se consumiran 3 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 3
+Mutex liberado, saliendo del monitor
+8 - (!) Recurso tomado
+Iniciando thread 10
+Recurso usado
+9 - Recurso devuelto
+Recursos agregados: 1
+Recursos actuales: 4
+Iniciando iteracion 2
+Se consumiran 3 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 1
+Mutex liberado, saliendo del monitor
+9 - (!) Recurso tomado
+Iniciando thread 10
+Iniciando iteracion 1
+Se consumiran 3 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos insuficientes disponibles
+WOW! Recursos insuficientes disponibles
+Recurso usado
+7 - Recurso devuelto
+Recursos agregados: 3
+Recursos actuales: 4
+Recurso usado
+8 - Recurso devuelto
+Recursos agregados: 3
+Recursos actuales: 7
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 4
+Mutex liberado, saliendo del monitor
+10 - (!) Recurso tomado
+Recurso usado
+9 - Recurso devuelto
+Recursos agregados: 3
+Recursos actuales: 7
+Iniciando iteracion 3
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 5
+Mutex liberado, saliendo del monitor
+9 - (!) Recurso tomado
+Recurso usado
+9 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 7
+Recurso usado
+10 - Recurso devuelto
+Recursos agregados: 3
+Recursos actuales: 10
+Iniciando iteracion 2
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 8
+Mutex liberado, saliendo del monitor
+10 - (!) Recurso tomado
+Recurso usado
+10 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 10
+Iniciando iteracion 3
+Se consumiran 2 recursos
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Recursos actuales: 8
+Mutex liberado, saliendo del monitor
+10 - (!) Recurso tomado
+Recurso usado
+10 - Recurso devuelto
+Recursos agregados: 2
+Recursos actuales: 10
+Terminando programa
